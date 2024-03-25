@@ -1,6 +1,11 @@
 
 # Rapport
 
+
+![img.png](img.png)
+
+
+
 ändrade namn på label som den visas under samt app-name.
 
     <activity
@@ -14,4 +19,4 @@
             </intent-filter>
         </activity>
 
-![img.png](img.png)
+
